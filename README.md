@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-  <img alt="Presence List Mockup" src=".github/mockup.png" width="100%">
+  <img alt="Presence List Mockup" src=".github/mockup.png" width="auto" max-width="500px">
 </p>
 
 ## 🚀 Technologies
 
-- [ReactJS](https://reactjs.org/)
+- [ReactJS](https://reactjs.org/) (useState, useEffect with Async Await-GitHub API)
+
 
 ## 💻 Getting started
 
