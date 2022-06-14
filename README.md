@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Feedget Mockup" src=".github/mockup.png" width="100%">
+  <img alt="Presence List Mockup" src=".github/mockup.png" width="100%">
 </p>
 
 ## 🚀 Technologies
